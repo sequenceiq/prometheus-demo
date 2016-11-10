@@ -1,0 +1,6 @@
+## install blueprint
+
+
+```
+cbd 
+```
